@@ -1,0 +1,19 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Android Studio / Gradle
+.gradle/
+/build/
+app/build/
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
